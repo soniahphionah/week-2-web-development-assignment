@@ -1,0 +1,31 @@
+/* this is a comment in css */ 
+
+
+*{
+    color: beige;
+} 
+
+#heading-three{
+    background-color: grey;
+}
+
+body{
+    background-color: aqua;
+    background-image: url('https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/loggerhead-sea-turtle_001-1024x683.jpg');
+    background-size: cover ;
+    background-repeat: no-repeat;
+}
+
+ .bg-image{
+    height: 100%;
+    width: 100%;
+    background-image: url('https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/loggerhead-sea-turtle_001-1024x683.jpg');
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+.image-container {
+    background-image: url('https://bunny-wp-pullzone-cjamrcljf0.b-cdn.net/wp-content/uploads/2021/02/loggerhead-sea-turtle_001-1024x683.jpg');
+    background-repeat: no-repeat; /* Ensure the image does not repeat */
+
+}
